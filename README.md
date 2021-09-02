@@ -3,7 +3,7 @@
 <!-- LOGO -->
 <p align="center">
   <a href="https://github.com/IgorSolerC/Simulacao-cores">
-    <img src="Imagens/paleta1.png" alt="Logo">
+    <img src="Imagens/paleta1.png" alt="Logo" width="40%" height="40%">
   </a>
   <h3 align="center">Um simples jogo da velha minimalista</h3>
   <p align="center">
@@ -55,31 +55,31 @@ O pacote [PyGame](https://www.pygame.org/) foi utilizado para o desenvolvimento 
 
 ## Exemplos
 
-* Café"
+* Paleta Café
 
 <p align="center">
 <img src="Imagens/cafe.png" alt="Paleta cafe">
 </p>
 
-* Chiclete
+* Paleta Chiclete
 
 <p align="center">
 <img src="Imagens/chiclete.png" alt="Paleta chiclete">
 </p>
 
-* Fast Food
+* Paleta Fast Food
 
 <p align="center">
 <img src="Imagens/fastFood.png" alt="Paleta fastFood">
 </p>
 
-* Coringa
+* Paleta Coringa
 
 <p align="center">
 <img src="Imagens/coringa.png" alt="Paleta coringa">
 </p>
 
-* Melancia
+* Paleta Melancia
 
 <p align="center">
 <img src="Imagens/melancia.png" alt="Paleta melancia">
