@@ -7,7 +7,7 @@
   </a>
   <h3 align="center">Um simples jogo da velha minimalista</h3>
   <p align="center">
-    <a href ="https://youtu.be/Oo_BPsrD5LE">
+    <a href ="https://youtu.be/6DaKhVFMZ34">
       Video de demonstração!
     </a>
   </p>
