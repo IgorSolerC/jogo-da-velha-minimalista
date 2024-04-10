@@ -2,7 +2,7 @@
 
 <!-- LOGO -->
 <p align="center">
-  <a href="https://github.com/IgorSolerC/Simulacao-cores">
+  <a href="https://github.com/IgorSolerC/jogo-da-velha-minimalista">
     <img src="Imagens/paleta1.png" alt="Logo" width="40%" height="40%">
   </a>
   <h3 align="center">Um simples jogo da velha minimalista</h3>
@@ -91,7 +91,7 @@ O pacote [PyGame](https://www.pygame.org/) foi utilizado para o desenvolvimento 
 
 O Download do executavel para Windows pode ser obtido neste link: 
 
-https://github.com/IgorSolerC/Jogo-da-Velha-Minimalista/releases
+https://github.com/IgorSolerC/jogo-da-velha-minimalista/releases
 
 Para usuarios de outros sistemas operacionais:
 * Instale a linguagem Python
